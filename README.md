@@ -1,8 +1,6 @@
 ### Discord:
 <p align="left">
- Current Username: Dyn
- Current Tag: #4218
- My Discord: https://discord.gg/C6YPFrmyES
+ Current Username: Dyn#4218 - https://discord.gg/C6YPFrmyES
 </p>
 
 ### Languages:

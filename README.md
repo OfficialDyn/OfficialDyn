@@ -1,6 +1,8 @@
 ###### Discord:
 <p align="left">
- Current Username: Dyn#4218 - https://discord.gg/C6YPFrmyES
+  <a href="https://github.com/OfficialDyn">
+    <img src="https://cdn.discordapp.com/attachments/838890917841993789/949055430460584026/unknown.png"/>
+     </a>
 </p>
 
 ###### Languages:

@@ -1,15 +1,11 @@
-## Zorpze's Profile
-
-"Sometimes I forget i'm one of the smartest niggas I know." - Zorpze
-
 ### Discord:
 <p align="left">
-  <a href="https://github.com/OfficialZorpze">
-    <img src="https://discord.c99.nl/widget/theme-2/860372464038969405.png"/>
-     </a>
+ Current Username: Dyn
+ Current Tag: #4218
+ My Discord: https://discord.gg/C6YPFrmyES
 </p>
 
-### Languages and Tools:
+### Languages:
 
 <a href="https://www.cprogramming.com/" target="_blank"> <img align="left" alt="C" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/c-programming.png"/> </a>
 <a href="https://www.w3schools.com/cpp/" target="_blank"> <img align="left" alt="C++" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/c++.png"/> </a>
@@ -20,7 +16,6 @@
 ### Softwares:
 
 <img align="left" alt="Visual Studio" width="26px" src="https://cdn.discordapp.com/attachments/861416164771758111/927386834760261632/58482afbcef1014c0b5e4a21.png" />
-
 
 <br />
 <br />

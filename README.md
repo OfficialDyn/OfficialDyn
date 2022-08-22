@@ -1,4 +1,3 @@
-###### Discord:
 <p align="left">
   <a href="https://github.com/OfficialDyn">
      </a>

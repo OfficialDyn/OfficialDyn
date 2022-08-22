@@ -1,7 +1,6 @@
 ###### Discord:
 <p align="left">
   <a href="https://github.com/OfficialDyn">
-    <img src="https://cdn.discordapp.com/attachments/838890917841993789/955028715006476298/unknown.png"/>
      </a>
 </p>
 
